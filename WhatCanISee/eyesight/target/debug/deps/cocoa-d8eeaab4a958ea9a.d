@@ -1,0 +1,12 @@
+/Users/Amna/Desktop/Code with seperate Target/WhatCanISee/eyesight/target/debug/deps/cocoa-d8eeaab4a958ea9a.rmeta: /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/Amna/Desktop/Code with seperate Target/WhatCanISee/eyesight/target/debug/deps/libcocoa-d8eeaab4a958ea9a.rlib: /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/Amna/Desktop/Code with seperate Target/WhatCanISee/eyesight/target/debug/deps/cocoa-d8eeaab4a958ea9a.d: /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs:
+/Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs:
+/Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs:
+/Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs:
+/Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs:
+/Users/Amna/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs:
